@@ -4,6 +4,10 @@
 
 Group Study Hub is a web application designed to facilitate online group study and collaboration among friends. Users can create assignments, complete them, and grade each other's work in a secure and interactive environment. The project leverages the MERN stack and Firebase authentication to provide a seamless and user-friendly study platform.
 
+## Live URL
+
+[https://project9-8be11.web.app/](https://project9-8be11.web.app/)
+
 ## Server API Github Link
 
 [https://github.com/zahidhasanratan/studyHubServer](https://github.com/zahidhasanratan/studyHubServer)
